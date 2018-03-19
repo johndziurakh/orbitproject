@@ -8,7 +8,7 @@ body{
 	background-size: cover;
 	color: $base-text-color;
 }
-h1, h2, h3{
+h1, h2, h3, h4.block-title, h5.block-title, h6.block-title{
 	text-transform: uppercase;
 	font-family: $vodka-rough;
 }
